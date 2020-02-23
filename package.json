@@ -1,8 +1,8 @@
 {
-	"name": "com.aria.unity.xxx",
+	"name": "com.aria.unity.hotreload",
 	"version": "1.0.0",
 	"unity": "2019.1",
-	"displayName": "AriaPlugin.XXX",
+	"displayName": "AriaPlugin.HotReload",
 	"description": "explanation",
 	"category": "",
 	"keywords": [],
@@ -12,7 +12,7 @@
 		{
 			"displayName": "Example",
 			"description": "how to use.",
-			"path": "Samples~/Example"
+			"path": "Samples/Example"
 		}
 	],
 	"author": {
