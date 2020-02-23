@@ -1,0 +1,32 @@
+using UnityEngine;
+
+public class DemoScript : HotReloadTest.AssetBundleScript
+{
+
+    private void Start()
+    {
+        Debug.Log("hello world");
+    }
+
+    private void Update()
+    {
+        this.gameObject.transform.position += new Vector3( 0, 0, 1 );
+
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            var renderer = this.gameObject.GetComponent<Renderer>();
+            renderer.enabled = false;
+            Debug.Log("test");
+        }
+    }
+
+    private void OnEnable()
+    {
+        Debug.Log("test");
+    }
+
+    private void OnDisable()
+    {
+        Debug.Log("test2");
+    }
+}

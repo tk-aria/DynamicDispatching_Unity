@@ -1,0 +1,4 @@
+public class Foo
+{ 
+    public int Sum( int x, int y ) => x + y; 
+}
