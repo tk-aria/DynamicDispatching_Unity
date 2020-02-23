@@ -1,0 +1,17 @@
+{
+    "name": "AriaPlugin.XXX.Editor",
+    "references": [
+        "GUID:e17460e06d0af440ba9894ef44f4930d"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
