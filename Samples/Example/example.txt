@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class DemoScript : HotReloadTest.AssetBundleScript
+public class DemoScript : HotReloadTest.HotReloadableScript
 {
 
     private void Start()

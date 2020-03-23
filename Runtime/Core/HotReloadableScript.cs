@@ -3,13 +3,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace AriaPlugin.Runtime.CSharpHotReload
+namespace AriaPlugin.Runtime.HotReloadable
 {
     /// <summary>
     ///  HotReload可能なCSharpスクリプト.
     ///  ※ 編集禁止スクリプト.
     /// </summary>
-    public class AssetBundleScript : UniScriptBehaviour
+    public class HotReloadableScript : UniScriptBehaviour
     {
         #region Const
         #endregion // Const End.

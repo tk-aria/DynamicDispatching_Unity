@@ -3,12 +3,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace AriaPlugin.Runtime.CSharpHotReload
+namespace AriaPlugin.Runtime.HotReloadable
 {
     /// <summary>
     ///  アセットバンドルスクリプトの制御.
     /// </summary>
-    public class AssetBundleScriptController
+    public class HotReloadableScriptController
     {
         #region Const
         #endregion // Const End.
@@ -18,7 +18,7 @@ namespace AriaPlugin.Runtime.CSharpHotReload
 
         #region Field
 
-        [SerializeField] AssetBundleScript bundleScript;
+        [SerializeField] HotReloadableScript bundleScript;
 
         #endregion // Field End.
 
@@ -33,7 +33,7 @@ namespace AriaPlugin.Runtime.CSharpHotReload
         /// <summary>
         ///  
         /// </summary>
-        public AssetBundleScriptController(AssetBundleScript bundleScript)
+        public HotReloadableScriptController(HotReloadableScript bundleScript)
         {
             this.bundleScript = bundleScript;
         }
