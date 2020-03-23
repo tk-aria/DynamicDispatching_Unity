@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6e1b2dd515ea4229a9a2b58e691011aa
+guid: 1e903d3d8ade64c499d99632d0dddef7
 labels:
 - gvh
 - gvh_version-5.7.0
@@ -8,8 +8,11 @@ PluginImporter:
   serializedVersion: 2
   iconMap: {}
   executionOrder: {}
+  defineConstraints: []
   isPreloaded: 0
   isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
   platformData:
   - first:
       '': OSXIntel

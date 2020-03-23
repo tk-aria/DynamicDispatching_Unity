@@ -9,6 +9,11 @@
 	"dependencies": {
 	},
 	"samples": [
+        {
+			"displayName": "Plugins",
+			"description": "native plugin.",
+			"path": "Plugins"
+		},
 		{
 			"displayName": "Example",
 			"description": "how to use.",
