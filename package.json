@@ -1,8 +1,8 @@
 {
-	"name": "com.aria.unity.hotreload",
-	"version": "1.0.0",
+	"name": "com.aria.unity.hotreloadable",
+	"version": "1.0.1",
 	"unity": "2019.1",
-	"displayName": "AriaPlugin.HotReload",
+	"displayName": "AriaUnity.HotReloadable",
 	"description": "explanation",
 	"category": "",
 	"keywords": [],
