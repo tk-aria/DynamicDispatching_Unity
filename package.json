@@ -2,7 +2,7 @@
 	"name": "com.aria.unity.hotreloadable",
 	"version": "1.0.1",
 	"unity": "2019.1",
-	"displayName": "AriaUnity.HotReloadable",
+	"displayName": "HotReloadable",
 	"description": "explanation",
 	"category": "",
 	"keywords": [],
