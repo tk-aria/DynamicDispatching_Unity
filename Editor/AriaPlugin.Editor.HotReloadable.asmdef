@@ -1,0 +1,17 @@
+{
+    "name": "AriaPlugin.Editor.HotReloadable",
+    "references": [
+        "GUID:2cc4a0e5ce8954a868e03016c6abb779"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
